@@ -1,5 +1,5 @@
 @-moz-document url-prefix(about:home), url-prefix(about:newtab) {
-body {background: url(sao.gif) !important ; background-size: cover !important ;
+body {background: url(stars.gif) !important ; background-size: cover !important ;
    }
 .wordmark {background: url("firefox-wordmark-pixel-white.png") !important; background-repeat: no-repeat !important;
 	}
