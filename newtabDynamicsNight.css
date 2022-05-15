@@ -1,0 +1,16 @@
+@-moz-document url-prefix(about:home), url-prefix(about:newtab) {
+body {background: url(sao.gif) !important ; background-size: cover !important ;
+   }
+.wordmark {background: url("firefox-wordmark-pixel-white.png") !important; background-repeat: no-repeat !important;
+	}
+.logo {background-image: url("firefox-pixel-moon-logo.png") !important; height: 100px !important; width: 100px !important;
+   }
+.search-handoff-button{background-color: #000000 !important; transition-duration: 0.1s; border-radius: 0px !important; opacity: 0.6 !important;
+   }
+.search-handoff-button:hover{background-color: #000000 !important; opacity: 0.93 !important;
+   }
+.icon icon-settings personalize-button personalize-animate-appear-done personalize-animate-enter-done{background-image: url("settings-night.svg") !important; fill: purple !important;
+   }
+   .tile{background-color: #000000 !important;
+   }
+}
